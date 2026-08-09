@@ -1,4 +1,6 @@
 # Jaly.js Runtime
+<img width="1733" height="910" alt="스크린샷 2026-08-09 090525" src="https://github.com/user-attachments/assets/42487dd0-f0ee-41a6-88e8-0e842c4a815f" />
+
 
 **단일 실행파일 `jaly.exe` 하나로 동작하는 독립 JavaScript Runtime.**
 외부 DLL, Node.js, npm, Python, 별도 런타임 — 전부 필요 없음.
